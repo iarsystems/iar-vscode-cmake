@@ -12,6 +12,7 @@ Below you will find the software and their versions used in this guide. Newer ve
 | - | - | - |
 | IAR Embedded Workbench | 9.40.1 | [link](https://www.iar.com/products/architectures/arm/iar-embedded-workbench-for-arm/iar-embedded-workbench-for-arm---free-trial-version/)
 | Microsoft Visual Studio Code | 1.82.0 | [link](https://code.visualstudio.com)
+| [IAR Debug Extension](https://github.com/IARSystems/iar-vsc-debug) | 1.30.2 | [link](https://marketplace.visualstudio.com/items?itemName=iarsystems.iar-debug)
 | Microsoft C/C++ Extension Pack | 1.3.0 | [link](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack)
 | Microsoft CMake Tools Extension | 1.15.31 | [link](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools)
 | CMake | 3.27.4 | [link](https://github.com/Kitware/CMake/releases/download/v3.27.4/cmake-3.27.4-windows-x86_64.msi)
