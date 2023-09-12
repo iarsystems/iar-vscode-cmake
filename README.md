@@ -36,6 +36,7 @@ __root uint_fast8_t counter = 0;
 void main() {
    while (counter < 10) {
      printf("Hello world! %u\n", counter);
+     ++counter;
    }
    for(;;) {
       ++counter;
